@@ -1,1 +1,7 @@
-# ProyectoTorneo
+# Gestor de Torneos de Fútbol 
+Es un sistema desarrollado en Python diseñado para administrar aspectos de un torneo deportivo de futbol, desde equipos y jugadores hasta partidos y estadísticas. 
+El proyecto utiliza archivos JSON para almacenar los datos de manera persistente, lo que permite mantener un registro completo de los equipos registrados, sus jugadores y cuerpo técnico, los torneos en curso, los resultados de los partidos y las transferencias entre clubes. Su arquitectura modular organiza el código en controladores para cada entidad (equipos, jugadores, torneos, etc.), funciones auxiliares para operaciones comunes y una capa de datos para la gestión de archivos.
+
+El sistema incluye funcionalidades clave como el registro y eliminación de equipos, jugadores y torneos; la inscripción de equipos en competencias; el registro detallado de partidos con actualización automática de estadísticas; y el manejo de transferencias entre equipos (ventas o préstamos). Además, genera tablas de posiciones basadas en los resultados, mostrando métricas como puntos, goles a favor y en contra, y diferencia de goles.
+
+El menú principal, es intuitivo y fácil de usar, guía al usuario a través de todas las operaciones disponibles. Este proyecto es ideal para torneos, ligas  o cualquier entidad que necesite gestionar torneos de fútbol de manera eficiente y automatizada. Las contribuciones y personalizaciones son bienvenidas para adaptarlo a necesidades específicas o añadir nuevas funcionalidades
