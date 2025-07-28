@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "id_jugador": 1,
+    "nombre_jugador": "jhon",
+    "equipo_origen": 1,
+    "nombre_equipo_origen": "tatan",
+    "equipo_destino": 2,
+    "nombre_equipo_destino": "tada",
+    "tipo": "Venta",
+    "monto": 10,
+    "fecha": "27/07/2025",
+    "fecha_fin": null
+  }
+]

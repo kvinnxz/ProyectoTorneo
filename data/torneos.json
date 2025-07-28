@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "nombre": "tatan",
+    "pais": "col",
+    "fecha_inicio": "10/10/2023",
+    "fecha_fin": "10/10/2024",
+    "equipos_inscritos": [
+      1,
+      2
+    ],
+    "partidos": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "1",
+    "pais": "1",
+    "fecha_inicio": "1",
+    "fecha_fin": "1",
+    "equipos_inscritos": [],
+    "partidos": []
+  }
+]
